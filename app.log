@@ -1,5 +1,0 @@
-2026-06-29 19:29:29,806 - kostky.py:7  hra() - Začátek hry
-2026-06-29 19:29:35,334 - kostky.py:10  hra() - Sázka: 500.0, Tip: 1
-2026-06-29 19:29:35,334 - kostky.py:18  hra() - Výsledek hodu: 1, 6, 6 - Součet: 13
-2026-06-29 19:29:35,334 - kostky.py:21  hra() - Výhra: 1000.0
-2026-06-29 19:29:35,334 - kostky.py:26  hra() - Konec hry
