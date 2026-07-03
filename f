@@ -1,0 +1,2 @@
+f
+rm vykaz.txt
